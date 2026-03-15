@@ -5,7 +5,7 @@ in Electrical Engineering from Bayero University Kano, and somewhere along the w
 discovered that the part I enjoyed most was finding patterns in data and building 
 things that solve real problems.
 
-I build end-to-end data projects — from web scraping and SQL analysis to machine 
+I build end-to-end data projects, from web scraping and SQL analysis to machine 
 learning models and AI-powered applications. My recent work includes a natural 
 language to SQL engine powered by Google Gemini and a causal inference decision 
 tool built on DoWhy. I enjoy creating things that did not exist before and I 
