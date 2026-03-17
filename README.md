@@ -29,8 +29,7 @@ A data project that helps businesses stop wasting marketing budget. Instead of j
 Built an end-to-end data project to answer a simple question: where in Lagos should you actually invest in property? Scraped nearly 2,000 real listings using Python, cleaned the messy data across three rounds, and built an interactive Tableau dashboard revealing that Ibeju Lekki delivers 9.3% annual returns while Ikorodu delivers just 0.3% — a 30x gap in the same city.
 
 **[Telco Customer Churn Prediction](https://github.com/najeebullahii/Telco_Customer_Churn_Prediction)**
-Compared Logistic Regression, Random Forest, and XGBoost to predict telecom churn. 
-XGBoost achieved AUC-ROC of 0.84 across 7,043 customer records.
+Built a tool that predicts customer departures for a telecom company. I tested three different types of math models to find the most reliable one, ultimately reaching an 84% success rate in identifying customers who might leave.
 
 **[Diabetes Readmission Analysis](https://github.com/najeebullahii/Diabetes_Readmission_Analysis)**
 Analysed 10 years of diabetic patient hospital records using MySQL and Tableau to 
