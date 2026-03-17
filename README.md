@@ -18,15 +18,11 @@ Python · SQL · Excel · Machine Learning · Tableau · Power BI · Streamlit �
 ## Featured Projects
 
 **[FinQuery — Natural Language Analytics for E-Commerce](https://github.com/najeebullahii/FinQuery-Natural-Language-Analytics-Ecommerce)**
-AI-powered app that converts plain English questions into SQL and returns instant 
-charts from 1.6 million rows of real e-commerce data. Built with Gemini 2.5 Flash, 
-SQLite, and Streamlit.
+Built an AI-powered analytics app that removes the barrier between business users and data. Instead of waiting for a data analyst to write a query, anyone can just type a question and get an instant chart. Runs on 1.6 million rows of real e-commerce data across 9 database tables. Powered by Google Gemini and live on Streamlit.
 [Live Demo](https://finquery-natural-language-analytics-ecommerce-bzogrhfvcqxkedqz.streamlit.app)
 
 **[Strategic Oracle — Causal AI Decision Engine](https://github.com/najeebullahii/Strategic-Oracle__Causal-AI-Decision-Engine)**
-Causal inference project using DoWhy to isolate the true marketing lift of bank 
-contact methods. Removes selection bias using propensity score stratification and 
-delivers an interactive ROI simulator for budget decision-making.
+A data project that helps businesses stop wasting marketing budget. Instead of just asking "which customers subscribed?", it asks "did our outreach actually cause them to subscribe, or would they have anyway?" Built with Python and deployed as a live interactive app.
 [Live Demo](https://strategic-oraclecausal-ai-decision-engine-3vpjjayi3mpvjkrd5rtk.streamlit.app)
 
 **[Lagos Real Estate Intelligence](https://github.com/najeebullahii/Lagos-real-estate-analysis)**
