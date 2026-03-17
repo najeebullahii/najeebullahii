@@ -26,9 +26,7 @@ A data project that helps businesses stop wasting marketing budget. Instead of j
 [Live Demo](https://strategic-oraclecausal-ai-decision-engine-3vpjjayi3mpvjkrd5rtk.streamlit.app)
 
 **[Lagos Real Estate Intelligence](https://github.com/najeebullahii/Lagos-real-estate-analysis)**
-Scraped and analysed 1,993 Lagos properties using Python. Built an interactive 
-Tableau dashboard revealing investment yields ranging from 0.3% to 9.3% across 
-Lagos neighbourhoods — a 30x difference within the same city.
+Built an end-to-end data project to answer a simple question: where in Lagos should you actually invest in property? Scraped nearly 2,000 real listings using Python, cleaned the messy data across three rounds, and built an interactive Tableau dashboard revealing that Ibeju Lekki delivers 9.3% annual returns while Ikorodu delivers just 0.3% — a 30x gap in the same city.
 
 **[Telco Customer Churn Prediction](https://github.com/najeebullahii/Telco_Customer_Churn_Prediction)**
 Compared Logistic Regression, Random Forest, and XGBoost to predict telecom churn. 
