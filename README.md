@@ -1,6 +1,6 @@
 # Hi, I'm Najib
 
-Data Analyst and Data Scientist based in Kaduna, Nigeria. I graduated with a degree 
+Data Analyst, Data Scientist and an AI practitioner based in Kaduna, Nigeria. I graduated with a degree 
 in Electrical Engineering from Bayero University Kano, and somewhere along the way 
 discovered that the part I enjoyed most was finding patterns in data and building 
 things that solve real problems.
